@@ -1,0 +1,28 @@
+{
+    "photos":{
+        "photo1":{
+            "id": 1,
+            "URL": "./assets/photo1.jpg"
+        },
+        "photo2":{
+            "id": 2,
+            "URL": "./assets/photo2.jpg"
+        },
+        "photo3":{
+            "id": 3,
+            "URL": "./assets/photo3.jpg"
+        },
+        "photo4":{
+            "id": 4,
+            "URL": ""
+        },
+        "photo5":{
+            "id": 5,
+            "URL": ""
+        },
+        "photo6":{
+            "id": 6,
+            "URL": ""
+        }
+    }
+}
