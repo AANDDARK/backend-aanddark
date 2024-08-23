@@ -1,12 +1,15 @@
 {
   "name": "my-backend",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "/home/kovalenko/my-app/my-backend/src/server.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node /home/kovalenko/my-app/my-backend/src/server.js"
+
   },
   "author": "",
-  "license": "ISC",
+  "license": "MPL-2.0",
   "description": "",
   "dependencies": {
     "express": "^4.19.2"
