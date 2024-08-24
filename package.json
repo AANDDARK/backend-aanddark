@@ -8,7 +8,7 @@
     "serve": "nodemon server.js",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "Andriy Kovalenko (AANDDARK)",
   "license": "MPL-2.0",
   "description": "",
   "dependencies": {
