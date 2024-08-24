@@ -1,9 +1,10 @@
-import express, { Router } from 'express';
+import express from 'express';
 import { spData } from '/home/kovalenko/my-app/my-backend/src/main.js';
 import { getRandomPhotoURL } from '/home/kovalenko/my-app/my-backend/src/main.js';
 const app = express();
-const port = 1234;
+const port = 3000;
 
+app.use('/content', express.static('public'))
 
 app.get('/', (req, res) => {
   res.send("Hello here server aanddark-website.vercel.app");
