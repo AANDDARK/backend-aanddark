@@ -2,27 +2,27 @@
     "photos":{
         "photo1":{
             "id": 1,
-            "URL": "./assets/photo1.jpg"
+            "URL": "content/photo1.jpg"
         },
         "photo2":{
             "id": 2,
-            "URL": "./assets/photo2.jpg"
+            "URL": "content/photo2.jpg"
         },
         "photo3":{
             "id": 3,
-            "URL": "./assets/photo3.jpg"
+            "URL": "content/photo3.jpg"
         },
         "photo4":{
             "id": 4,
-            "URL": ""
+            "URL": "content/photo4.jpg"
         },
         "photo5":{
             "id": 5,
-            "URL": ""
+            "URL": "content/photo5.jpg"
         },
         "photo6":{
             "id": 6,
-            "URL": ""
+            "URL": "content/photo6.jpg"
         }
     }
 }
