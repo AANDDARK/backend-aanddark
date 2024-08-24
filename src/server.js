@@ -2,7 +2,7 @@ import express from 'express';
 import { spData } from '/home/kovalenko/my-app/my-backend/src/main.js';
 import { getRandomPhotoURL } from '/home/kovalenko/my-app/my-backend/src/main.js';
 const app = express();
-const port = 3000;
+const port = 4005;
 
 app.use('/content', express.static('public'))
 

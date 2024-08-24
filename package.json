@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "nodemon server.js",
-    "start": "node server.js"
+    "serve": "nodemon src/server.js",
+    "start": "node src/server.js"
   },
   "author": "Andriy Kovalenko (AANDDARK)",
   "license": "MPL-2.0",
