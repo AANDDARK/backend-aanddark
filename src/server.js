@@ -1,8 +1,8 @@
 import express from 'express';
-import { spData } from '/home/kovalenko/my-app/my-backend/src/main.js';
-import { getRandomPhotoURL } from '/home/kovalenko/my-app/my-backend/src/main.js';
+import { spData } from './main.js';
+import { getRandomPhotoURL } from './main.js';
 const app = express();
-const port = 4005;
+const port = 4008;
 
 app.use('/content', express.static('public'))
 
