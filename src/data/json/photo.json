@@ -2,27 +2,27 @@
     "photos":{
         "photo1":{
             "id": 1,
-            "URL": "content/photo1.jpg"
+            "URL": "https://backend-aanddark.onrender.com/content/photo1.jpg"
         },
         "photo2":{
             "id": 2,
-            "URL": "content/photo2.jpg"
+            "URL": "https://backend-aanddark.onrender.com/content/photo2.jpg"
         },
         "photo3":{
             "id": 3,
-            "URL": "content/photo3.jpg"
+            "URL": "https://backend-aanddark.onrender.com/content/photo3.jpg"
         },
         "photo4":{
             "id": 4,
-            "URL": "content/photo4.jpg"
+            "URL": "https://backend-aanddark.onrender.com/content/photo4.jpg"
         },
         "photo5":{
             "id": 5,
-            "URL": "content/photo5.jpg"
+            "URL": "https://backend-aanddark.onrender.com/content/photo5.jpg"
         },
         "photo6":{
             "id": 6,
-            "URL": "content/photo6.jpg"
+            "URL": "https://backend-aanddark.onrender.com/content/photo6.jpg"
         }
     }
 }
