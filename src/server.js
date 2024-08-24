@@ -7,7 +7,7 @@ const port = 4008;
 app.use('/content', express.static('public'))
 
 app.get('/', (req, res) => {
-  res.send("Hello here server aanddark-website.vercel.app");
+  res.send(`Hello here server <a href="https://aanddark-website.vercel.app/">AANDDARK</a>`);
 });
 app.get('/api/photos' ,(req, res) => {
   res.json(spData)

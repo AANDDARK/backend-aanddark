@@ -2,7 +2,7 @@
 import fs from 'fs/promises';
 import path from 'path';
 
-const jsonPath = path.resolve('/home/kovalenko/my-app/my-backend/src/data/json/photo.json');
+const jsonPath = path.resolve('./src/data/json/photo.json');
 
 async function loadData() {
   try {
